@@ -1,7 +1,7 @@
 # Deep-Learning
 ## Overview
 Alphabet Soup is a non-profit foundation and they are trying to create an algorithm to predict whether applicants for funding will be used successfully. Since ether response variables in this case is a categorical variables, a classification algorithm will be used. Specially we are using **Neural Network** for this study.  Neural networks is a series of algorithm that finding the relationship underlying a set of data with a process that mimic the way human brain operates. 
-## Results
+## Process
   - #### Data Preprocessing
     -   First identify the target variables. Based on the senario and the result we are predicting, the target variable in thie dataset is **"IS_SUCCESSFUL"** and the feature variables will be the rest of the variables.
     -   Drop columns that won't be used during the process (**'EIN' and 'NAME'**)
